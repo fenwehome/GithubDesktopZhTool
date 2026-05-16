@@ -23,7 +23,9 @@ GitHubDesktop官网：https://desktop.github.com
 ![image](https://raw.githubusercontent.com/robotze/Images/refs/heads/main/%E6%8F%90%E4%BA%A4%E6%8F%90%E7%A4%BA%E8%AF%8D.png)
 
 🔥 升级一：Copilot 生成中文 commit
+
 🎨 升级二：汉化内容完全自定义
+
 📚 升级三：更多的汉化内容
 
 详细内容见公众号置顶文章
