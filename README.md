@@ -17,18 +17,19 @@ GitHubDesktop官网：https://desktop.github.com
 
 ![image](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
-- [x] 2022年小目标：实现Windows、Mac、Linux汉化。
+## 新版本v2
+![image](https://raw.githubusercontent.com/robotze/Images/refs/heads/main/%E6%B1%89%E5%8C%96%E5%AD%97%E5%85%B8.png)
 
-- [x] 2023年小目标：实现更多汉化。
-      
-- [ ] 2024年小目标：实现更多汉化。当前进度：60%
+![image](https://raw.githubusercontent.com/robotze/Images/refs/heads/main/%E6%8F%90%E4%BA%A4%E6%8F%90%E7%A4%BA%E8%AF%8D.png)
 
-| 🟩     | 🟩      | 🟩     | 🟩      | 🟩     | 🟩      | ⬜️     | ⬜️      | ⬜️     | ⬜️      |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+🔥 升级一：Copilot 生成中文 commit
+🎨 升级二：汉化内容完全自定义
+📚 升级三：更多的汉化内容
 
+详细内容见公众号置顶文章
 
 ---
-### Windows汉化
+## Windows汉化
 打开GithubDesktopZhTool.exe，点击汉化即可。
 
 视频教程：[https://www.bilibili.com/video/BV1Gr4y177aE](https://www.bilibili.com/video/BV1Gr4y177aE)
@@ -38,7 +39,7 @@ GitHubDesktop官网：https://desktop.github.com
 ![](https://upload-images.jianshu.io/upload_images/8833471-f215d172dbe85d58.png?imageMogr2/auto-orient/strip|imageView2/2/w/986/format/webp)
 
 ---
-### Mac汉化
+## Mac汉化
 将本仓库中Mac文件夹下的main.js和renderer.js拷贝替换本地GithubDesktop的资源目录
 
 本地GithubDesktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
@@ -50,7 +51,7 @@ GitHubDesktop官网：https://desktop.github.com
 
 
 ---
-### Linux汉化
+## Linux汉化
 Linux版GithubDesktop仓库：https://github.com/shiftkey/desktop
 
 将本仓库中Linux文件夹下的main.js和renderer.js复制替换本地GithubDesktop的资源目录
